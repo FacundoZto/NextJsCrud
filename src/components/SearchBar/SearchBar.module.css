@@ -1,0 +1,23 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.btn {
+  background-color: #3B82F6;
+  width: 165px;
+}
+
+.searchBar {
+  display: flex;
+  margin: 20px auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search {
+  width: 30%;
+}
+
